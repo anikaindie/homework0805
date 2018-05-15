@@ -1,0 +1,19 @@
+.col1 {
+    float: left;
+    width: 33%;
+    height: 500px;
+    background: aqua;
+}
+.col2 {
+    float: left;
+    width: 34%;
+    height: 500px;
+    background: cornflowerblue;
+}
+
+.col3 {
+    float: right;
+    width: 33%;
+    height: 500px;
+    background: darkcyan;
+}

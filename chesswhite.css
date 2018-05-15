@@ -1,0 +1,44 @@
+table {
+    background: coral;
+    border: 3px solid coral;
+}
+
+th {
+    background: cornsilk;
+    width: 30px;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+}
+
+.lt {
+    background: cornsilk;
+    height: 30px;
+    text-align: center;
+    border-bottom: 1px solid coral;
+}
+.cr {
+    background: cornsilk;
+    height: 30px;
+    border: 0px;
+}
+.white {
+    background: cornsilk;
+}
+
+.ltbt {
+    background: cornsilk;
+    height: 30px;
+    text-align: center;
+    border-top: 1px solid coral;
+}
+
+.numl {
+    border-right: 1px solid coral;
+}
+
+.numr {
+    border-left: 1px solid coral;
+}
